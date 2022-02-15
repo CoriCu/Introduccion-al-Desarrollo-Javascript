@@ -1,0 +1,79 @@
+body{
+    font-family:  comic, sans-serif;
+
+}
+.link{
+    color: black;
+    font-family: Poppins, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+}
+
+.divcontainer{
+    border: 2px solid black;
+    background-color: rgba(235, 235, 235, 0.637);
+}
+.divmail{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    align-content: center;
+    
+}
+
+.filtros{
+    display: flex;
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    justify-content: space-around;
+    width: 700px;
+   
+
+}
+
+
+.mail{
+    
+    background-size: contain;
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+
+
+
+
+
+.cont{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    align-content: center;
+    margin: 10px;
+}
+
+
+.contei{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: space-around;
+    align-content: center;
+    margin-top: 30px;
+
+}
+
+.parrafo{
+    height: 300px;
+    width: 600px;
+}
+.divtable{
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+ 
+    width: 500px;
+
+}
